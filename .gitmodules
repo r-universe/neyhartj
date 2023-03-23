@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PopVar"]
+	path = PopVar
+	url = https://github.com/cran/PopVar
+	shallow = true
+	registered = true
 [submodule "qgshiny"]
 	path = qgshiny
 	url = https://github.com/neyhartj/qgshiny
